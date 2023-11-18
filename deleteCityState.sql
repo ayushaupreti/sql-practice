@@ -1,0 +1,4 @@
+USE CityState;
+
+DROP TABLE IF EXISTS City;
+DROP TABLE IF EXISTS State;
